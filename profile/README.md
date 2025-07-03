@@ -16,21 +16,19 @@
 |----------|----------|----------|
 | nonebot_plugin_suggarchat | 强大的聊天框架 | `nb plugin install nonebot_pllugin_suggarchat` |
 
-## 🤖 机器人托管
-我们提供非OnebotV11机器人托管服务
 
-
-**申请方式** 👇  
-⬇️ 扫描二维码或点击二维码添加群 ⬇️ 
-[![image](https://github.com/user-attachments/assets/367bdf30-c72e-4acc-b8c6-108829f6a48c)](https://qm.qq.com/q/PicCSaZ2Iq)
-
-
-- **用户交流群：`1002495699`**
 
 ## 📞 联系/加入我们
 - 文档中心：https://lsdev.awa.im
 - **用户交流群：`1002495699`**
 - 邮箱：windowserror@163.com
+
+<details><summary>加群</summary>
+
+⬇️ 扫描二维码或点击二维码添加群 ⬇️ 
+[![image](https://github.com/user-attachments/assets/367bdf30-c72e-4acc-b8c6-108829f6a48c)](https://qm.qq.com/q/PicCSaZ2Iq)
+
+</details>
 
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
